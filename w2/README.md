@@ -22,7 +22,7 @@ W2_2作业 
 	* 仅有⽼师（⽤modifier权限控制）可以添加和修改学⽣分数
 	* 分数不可以⼤于 100 
 
- [https://ropsten.etherscan.io/address/0xa0aab3bd709361ddd2004a60b18d1c23dfc0dc54]  
+ [https://ropsten.etherscan.io/address/0xa0aab3bd709361ddd2004a60b18d1c23dfc0dc54]  
 
 * Q6 - 编写合约 Teacher 作为⽼师，通过 IScore 接⼝调⽤修改学⽣分数 
  [https://ropsten.etherscan.io/tx/0x8b17b2d4a868f1c89ddbd335439e3af5f87dc1aca67ada0d2ce75db1ae88e269]   
